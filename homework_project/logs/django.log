@@ -1,0 +1,49 @@
+Watching for file changes with StatReloader
+Not Found: /rand100/
+"GET /rand100/ HTTP/1.1" 404 2439
+Not Found: /rand100/
+"GET /rand100/ HTTP/1.1" 404 2439
+"GET / HTTP/1.1" 200 109
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 109
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 154
+"GET /about/ HTTP/1.1" 200 148
+"GET / HTTP/1.1" 200 154
+"GET /about/ HTTP/1.1" 200 148
+"GET / HTTP/1.1" 200 154
+"GET /about/ HTTP/1.1" 200 148
+"GET / HTTP/1.1" 200 154
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 148
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/homework_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 154
+"GET /about/ HTTP/1.1" 200 148
+"GET / HTTP/1.1" 200 154
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/homework_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 148
+"GET / HTTP/1.1" 200 154
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Обработана страница About us
+"GET /about/ HTTP/1.1" 200 148
+Обработана страница Home page
+"GET / HTTP/1.1" 200 154
+Обработана страница About us
+"GET /about/ HTTP/1.1" 200 148
