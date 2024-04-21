@@ -47,3 +47,42 @@ Watching for file changes with StatReloader
 "GET / HTTP/1.1" 200 154
 Обработана страница About us
 "GET /about/ HTTP/1.1" 200 148
+Watching for file changes with StatReloader
+Обработана страница Home page
+"GET / HTTP/1.1" 200 154
+Not Found: /apple-touch-icon-precomposed.png
+"GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 3965
+Not Found: /apple-touch-icon.png
+"GET /apple-touch-icon.png HTTP/1.1" 404 3929
+Обработана страница Home page
+"GET / HTTP/1.1" 200 154
+Not Found: /coin_toss/
+"GET /coin_toss/ HTTP/1.1" 404 3899
+- Broken pipe from ('127.0.0.1', 58515)
+Not Found: /create_client
+"GET /create_client HTTP/1.1" 404 3908
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /create_client HTTP/1.1" 301 0
+Internal Server Error: /create_client/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: create_client() missing 3 required positional arguments: 'email', 'phone_number', and 'address'
+"GET /create_client/ HTTP/1.1" 500 60398
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /create_client/
+"GET /create_client/?test@test.ru$123123&222333 HTTP/1.1" 404 2488
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/views.py changed, reloading.
+Watching for file changes with StatReloader
