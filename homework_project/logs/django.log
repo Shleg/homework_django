@@ -86,3 +86,204 @@ Not Found: /create_client/
 "GET /create_client/?test@test.ru$123123&222333 HTTP/1.1" 404 2488
 /Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /apple-touch-icon-precomposed.png
+"GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2716
+Not Found: /apple-touch-icon.png
+"GET /apple-touch-icon.png HTTP/1.1" 404 2680
+"GET /client/1/orders HTTP/1.1" 301 0
+Internal Server Error: /client/1/orders/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 15, in client_orders
+    return render(request, 'client_orders.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_orders.html
+"GET /client/1/orders/ HTTP/1.1" 500 81177
+Internal Server Error: /client/1/orders/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 15, in client_orders
+    return render(request, 'client_orders.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_orders.html
+"GET /client/1/orders/ HTTP/1.1" 500 81178
+Internal Server Error: /client/1/orders/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 15, in client_orders
+    return render(request, 'client_orders.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_orders.html
+"GET /client/1/orders/ HTTP/1.1" 500 81178
+Internal Server Error: /client/1/orders/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 15, in client_orders
+    return render(request, 'client_orders.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_orders.html
+"GET /client/1/orders/ HTTP/1.1" 500 81178
+Internal Server Error: /client/1/orders/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 15, in client_orders
+    return render(request, 'client_orders.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_orders.html
+"GET /client/1/orders/ HTTP/1.1" 500 81177
+Internal Server Error: /client/1/orders/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 15, in client_orders
+    return render(request, 'client_orders.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_orders.html
+"GET /client/1/orders/ HTTP/1.1" 500 81178
+Internal Server Error: /client/1/orders/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 15, in client_orders
+    return render(request, 'client_orders.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_orders.html
+"GET /client/1/orders/ HTTP/1.1" 500 81178
+Internal Server Error: /client/1/orders/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 15, in client_orders
+    return render(request, 'client_orders.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_orders.html
+"GET /client/1/orders/ HTTP/1.1" 500 81178
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /client/1/orders/ HTTP/1.1" 200 746
+Watching for file changes with StatReloader
+"GET /client/1/orders/ HTTP/1.1" 200 746
+"GET /client/1/orders/ HTTP/1.1" 200 746
+"GET /client/1/orders/ HTTP/1.1" 200 746
+"GET /client/1/orders/ HTTP/1.1" 200 746
+"GET /client/1/orders/ HTTP/1.1" 200 746
+"GET /client/2/orders/ HTTP/1.1" 200 1326
+"GET /client/3/orders/ HTTP/1.1" 200 1125
+"GET /client/4/orders/ HTTP/1.1" 200 746
+"GET /client/5/orders/ HTTP/1.1" 200 1638
+"GET /client/6/orders/ HTTP/1.1" 200 1260
+"GET /client/7/orders/ HTTP/1.1" 200 746
+"GET /client/8/orders/ HTTP/1.1" 200 929
+Watching for file changes with StatReloader
+"GET /client/8/orders/ HTTP/1.1" 200 929
+"GET /client/1/orders/ HTTP/1.1" 200 1084
+"GET /client/2/orders/ HTTP/1.1" 200 1326
+"GET /client/3/orders/ HTTP/1.1" 200 1125
+"GET /client/4/orders/ HTTP/1.1" 200 1279
+"GET /client/6/orders/ HTTP/1.1" 200 1260
+"GET /client/7/orders/ HTTP/1.1" 200 1087
+"GET /client/8/orders/ HTTP/1.1" 200 929
+"GET /client/9/orders/ HTTP/1.1" 200 1476

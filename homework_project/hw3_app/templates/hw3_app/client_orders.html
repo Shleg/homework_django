@@ -1,0 +1,39 @@
+{% extends 'hw3_app/base.html' %}
+
+{% block title %}
+    Заказы клиента
+{% endblock %}
+
+{% block content %}
+<h1>Заказы клиента</h1>
+<div>
+    <h2>Товары за последнюю неделю</h2>
+    <ul>
+        {% for product in products_week %}
+            <li>{{ product.name }} (Цена: {{ product.price }})</li>
+        {% empty %}
+            <li>Нет товаров за последнюю неделю.</li>
+        {% endfor %}
+    </ul>
+</div>
+<div>
+    <h2>Товары за последний месяц</h2>
+    <ul>
+        {% for product in products_month %}
+            <li>{{ product.name }} (Цена: {{ product.price }})</li>
+        {% empty %}
+            <li>Нет товаров за последний месяц.</li>
+        {% endfor %}
+    </ul>
+</div>
+<div>
+    <h2>Товары за последний год</h2>
+    <ul>
+        {% for product in products_year %}
+            <li>{{ product.name }} (Цена: {{ product.price }})</li>
+        {% empty %}
+            <li>Нет товаров за последний год.</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}
