@@ -10,7 +10,9 @@ def index(request):
     html = """
         <div style='margin: 0 auto; text-align: center;'>
             <h1>Home page</h1>
-            <a href = '/about/'>About us</a>
+            <a href = 'about/'>About us</a></br></br>
+            
+            <a href = '/'>Return to main page</a>
         </div>
     """
     logger.info('Обработана страница Home page')
@@ -21,7 +23,9 @@ def about(request):
     html = """
         <div style='margin: 0 auto; text-align: center;'>
             <h1>About us</h1>
-            <a href = '/'>Home page</a>
+            <a href = '/hw1'>Home page</a></br></br>
+            
+            <a href = '/'>Return to main page</a>
         </div>
     """
     logger.info('Обработана страница About us')

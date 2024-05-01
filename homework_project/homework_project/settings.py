@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "hw1_app",
     "hw2_app",
     "hw3_app",
+    "hw4_app",
 ]
 
 MIDDLEWARE = [
@@ -58,7 +59,9 @@ ROOT_URLCONF = "homework_project.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [],
+        "DIRS": [
+            BASE_DIR / 'templates',
+        ],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
@@ -117,6 +120,9 @@ USE_TZ = True
 
 STATIC_URL = "static/"
 
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
@@ -140,6 +146,11 @@ LOGGING = {
             'level': 'INFO',
         },
         'hw1_app': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+        'hw4_app': {
             'handlers': ['console', 'file'],
             'level': 'INFO',
             'propagate': True,

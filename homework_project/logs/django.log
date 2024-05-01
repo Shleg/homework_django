@@ -287,3 +287,420 @@ Watching for file changes with StatReloader
 "GET /client/7/orders/ HTTP/1.1" 200 1087
 "GET /client/8/orders/ HTTP/1.1" 200 929
 "GET /client/9/orders/ HTTP/1.1" 200 1476
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2610
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/homework_project/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2652
+Not Found: /hw2/
+"GET /hw2/ HTTP/1.1" 404 2524
+Not Found: /hw2/
+"GET /hw2/ HTTP/1.1" 404 2524
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 154
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2634
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2634
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2634
+"GET / HTTP/1.1" 200 2652
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 154
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2634
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2634
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2652
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 157
+Not Found: /hw1/hw1/about/
+"GET /hw1/hw1/about/ HTTP/1.1" 404 2890
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 154
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2634
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 153
+Обработана страница About us
+"GET /hw1/about/ HTTP/1.1" 200 151
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Обработана страница About us
+"GET /hw1/about/ HTTP/1.1" 200 151
+"GET /hw1 HTTP/1.1" 301 0
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 153
+Обработана страница About us
+"GET /hw1/about/ HTTP/1.1" 200 151
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 153
+Обработана страница About us
+"GET /hw1/about/ HTTP/1.1" 200 151
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 153
+Обработана страница About us
+"GET /hw1/about/ HTTP/1.1" 200 151
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 153
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw1_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 226
+Обработана страница About us
+"GET /hw1/about/ HTTP/1.1" 200 224
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 226
+"GET / HTTP/1.1" 200 2652
+Not Found: /hw2/
+"GET /hw2/ HTTP/1.1" 404 2524
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /hw2/
+"GET /hw2/ HTTP/1.1" 404 2707
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2652
+"GET /hw2/ HTTP/1.1" 200 2925
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw2/ HTTP/1.1" 200 2829
+"GET /hw2/ HTTP/1.1" 200 2782
+"GET /hw2/add_product/ HTTP/1.1" 200 3754
+"POST /hw2/add_product/ HTTP/1.1" 200 3867
+"GET /hw2/ HTTP/1.1" 200 2782
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 226
+Обработана страница About us
+"GET /hw1/about/ HTTP/1.1" 200 224
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 226
+"GET / HTTP/1.1" 200 2652
+"GET /hw2/ HTTP/1.1" 200 2782
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw2/ HTTP/1.1" 200 2920
+"GET /hw2/add_client/ HTTP/1.1" 200 3840
+"POST /hw2/add_client/ HTTP/1.1" 200 3932
+"GET /hw2/ HTTP/1.1" 200 2920
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw2/ HTTP/1.1" 200 3053
+"GET /hw2/ HTTP/1.1" 200 2920
+"GET /hw2/add_client/ HTTP/1.1" 200 3513
+"GET /hw2/add_product/ HTTP/1.1" 200 3466
+"GET /hw2/ HTTP/1.1" 200 2920
+Not Found: /hw3/
+"GET /hw3/ HTTP/1.1" 404 2733
+Not Found: /hw3/
+"GET /hw3/ HTTP/1.1" 404 2733
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2649
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw3/ HTTP/1.1" 200 2973
+Internal Server Error: /hw3/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py", line 14, in client_form
+    name = form.cleaned_data['name']
+           ~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'name'
+"POST /hw3/ HTTP/1.1" 500 65217
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw3_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /hw3/ HTTP/1.1" 200 3793
+Watching for file changes with StatReloader
+Not Found: /hw4/
+"GET /hw4/ HTTP/1.1" 404 2915
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /hw4/
+"GET /hw4/ HTTP/1.1" 404 2915
+Not Found: /hw4/
+"GET /hw4/ HTTP/1.1" 404 2915
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /hw4/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py", line 7, in home
+    return render(request, 'hw4.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw4.html
+"GET /hw4/ HTTP/1.1" 500 82274
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/ HTTP/1.1" 200 2930
+Internal Server Error: /hw4/product/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py", line 17, in add_product
+    return render(request, 'product_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: product_form.html
+"GET /hw4/product/add/ HTTP/1.1" 500 83380
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/product/add/ HTTP/1.1" 200 3911
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/product/add/ HTTP/1.1" 200 3911
+"GET /hw4/ HTTP/1.1" 200 2930
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/homework_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/ HTTP/1.1" 200 2930
+"GET /hw4/product/add/ HTTP/1.1" 200 3864
+Internal Server Error: /hw4/product/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py", line 27, in add_product
+    fs.save(image.name, image)
+            ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+"POST /hw4/product/add/ HTTP/1.1" 500 68502
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /hw4/product/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py", line 27, in add_product
+    fs.save(image.name, image)
+            ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+"POST /hw4/product/add/ HTTP/1.1" 500 68502
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/ HTTP/1.1" 200 2930
+"GET /hw4/product/add/ HTTP/1.1" 200 3893
+"POST /hw4/product/add/ HTTP/1.1" 200 3968
+Watching for file changes with StatReloader
+"POST /hw4/product/add/ HTTP/1.1" 200 3968
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/homework_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Продукт добавлен: еуые, Описание: еще, Цена: 122, Количество: 12, Дата добавления: 2024-05-01 00:00:00+00:00, Изображение: No image
+"POST /hw4/product/add/ HTTP/1.1" 200 3968
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/homework_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Продукт добавлен: еуые, Описание: еще, Цена: 122, Количество: 12, Дата добавления: 2024-05-01 00:00:00+00:00, Изображение: No image
+"POST /hw4/product/add/ HTTP/1.1" 200 3968
+Продукт добавлен: еуые, Описание: еще, Цена: 122, Количество: 12, Дата добавления: 2024-05-01 00:00:00+00:00, Изображение: No image
+"POST /hw4/product/add/ HTTP/1.1" 200 3988
+Watching for file changes with StatReloader
+Продукт добавлен: еуые, Описание: еще, Цена: 122, Количество: 12, Дата добавления: 2024-05-01 00:00:00+00:00, Изображение: /media/products/IMG_0192.JPG
+"POST /hw4/product/add/ HTTP/1.1" 200 3988
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/ HTTP/1.1" 200 3219
+"POST /hw4/ HTTP/1.1" 200 3219
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /hw4/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: home() missing 1 required positional argument: 'product_id'
+"POST /hw4/ HTTP/1.1" 500 62046
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /hw4/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: home() missing 1 required positional argument: 'product_id'
+"POST /hw4/ HTTP/1.1" 500 62046
+Internal Server Error: /hw4/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: home() missing 1 required positional argument: 'product_id'
+"POST /hw4/ HTTP/1.1" 500 62046
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/ HTTP/1.1" 200 3219
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/ HTTP/1.1" 200 3209
+"GET /hw4/ HTTP/1.1" 200 3209
+"POST /hw4/ HTTP/1.1" 302 0
+"GET /hw4/product/1/edit/ HTTP/1.1" 200 3960
+Internal Server Error: /hw4/product/1/edit/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py", line 45, in edit_product
+    return redirect('product_list')  # Предполагаем, что есть URL с именем 'product_list'
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/urls/resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product_list' not found. 'product_list' is not a valid view function or pattern name.
+"POST /hw4/product/1/edit/ HTTP/1.1" 500 86691
+"GET /hw4/ HTTP/1.1" 200 3209
+"POST /hw4/ HTTP/1.1" 302 0
+"GET /hw4/product/2/edit/ HTTP/1.1" 200 3960
+Internal Server Error: /hw4/product/2/edit/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py", line 45, in edit_product
+    return redirect('product_list')  # Предполагаем, что есть URL с именем 'product_list'
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/urls/resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product_list' not found. 'product_list' is not a valid view function or pattern name.
+"POST /hw4/product/2/edit/ HTTP/1.1" 500 86908
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/ HTTP/1.1" 200 3345
+Internal Server Error: /hw4/products/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py", line 53, in product_list
+    return render(request, 'product_list.html', {'products': products})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: product_list.html
+"GET /hw4/products/ HTTP/1.1" 500 83122
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw4/products/ HTTP/1.1" 200 3108
+"GET /hw4/product/1/edit/ HTTP/1.1" 200 3956
+"POST /hw4/product/1/edit/ HTTP/1.1" 302 0
+"GET /hw4/products/ HTTP/1.1" 200 3110
+"GET /hw4/products/ HTTP/1.1" 200 3140

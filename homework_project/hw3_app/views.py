@@ -3,6 +3,20 @@ from django.utils import timezone
 from datetime import timedelta
 
 from .models import Order, Product
+from .forms import ClientId
+
+
+def client_form(request):
+    if request.method == 'POST':
+        form = ClientId(request.POST)
+        if form.is_valid():
+            client_id = form.cleaned_data['client_id']
+            return client_orders(request, client_id)
+
+    else:
+        form = ClientId()
+
+    return render(request, 'hw3_app/client_id.html', {'form': form})
 
 
 def client_orders(request, client_id):
