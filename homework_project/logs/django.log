@@ -704,3 +704,37 @@ Watching for file changes with StatReloader
 "POST /hw4/product/1/edit/ HTTP/1.1" 302 0
 "GET /hw4/products/ HTTP/1.1" 200 3110
 "GET /hw4/products/ HTTP/1.1" 200 3140
+Watching for file changes with StatReloader
+"GET /hw4/products/ HTTP/1.1" 200 3140
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+"GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2712
+"GET /favicon.ico HTTP/1.1" 404 2649
+Not Found: /apple-touch-icon.png
+"GET /apple-touch-icon.png HTTP/1.1" 404 2676
+"GET /hw4/ HTTP/1.1" 200 3345
+"GET /hw3/ HTTP/1.1" 200 2973
+"GET /hw2/ HTTP/1.1" 200 2920
+"GET /hw2/ HTTP/1.1" 200 2920
+"GET /hw2/add_product/ HTTP/1.1" 200 3466
+"GET /hw2/add_client/ HTTP/1.1" 200 3513
+"GET /hw2/ HTTP/1.1" 200 2920
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 226
+"GET /hw2/ HTTP/1.1" 200 2920
+"GET /hw3/ HTTP/1.1" 200 2973
+"GET /hw2/ HTTP/1.1" 200 2920
+"GET /hw2/ HTTP/1.1" 200 2938
+"GET /hw2/add_product/ HTTP/1.1" 200 3466
+"GET /hw2/add_product/ HTTP/1.1" 200 3485
+"GET /hw2/ HTTP/1.1" 200 2938
+"GET /hw2/add_client/ HTTP/1.1" 200 3532
+"GET /hw3/ HTTP/1.1" 200 2992
+"GET /hw3/ HTTP/1.1" 200 2992
+"POST /hw3/ HTTP/1.1" 200 3551
+"GET /hw3/ HTTP/1.1" 200 2992
+"GET /hw4/ HTTP/1.1" 200 3364
+"GET /hw4/products/ HTTP/1.1" 200 3159
+"GET /hw4/ HTTP/1.1" 200 3364
+"GET /hw4/product/add/ HTTP/1.1" 200 3946
+"GET /hw4/ HTTP/1.1" 200 3364
