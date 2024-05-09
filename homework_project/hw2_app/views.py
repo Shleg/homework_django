@@ -20,12 +20,6 @@ def add_product(request):
             price = form.cleaned_data['price']
             quantity = form.cleaned_data['quantity']
             date_added = form.cleaned_data['date_added']
-            logger.info(f'Продукт:'
-                        f' {name=}, '
-                        f'{description=}, '
-                        f'{price=}.'
-                        f'{quantity=}.'
-                        f'{date_added=}.')
 
             product = Product(name=name,
                               description=description,
@@ -51,12 +45,6 @@ def add_client(request):
             phone_number = form.cleaned_data['phone_number']
             address = form.cleaned_data['address']
             registration_date = form.cleaned_data['registration_date']
-            logger.info(f'Клиент:'
-                        f' {name=}, '
-                        f'{email=}, '
-                        f'{phone_number=}.'
-                        f'{address=}.'
-                        f'{registration_date=}.')
 
             client = Client(name=name,
                             email=email,

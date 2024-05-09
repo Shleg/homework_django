@@ -738,3 +738,1341 @@ Not Found: /apple-touch-icon.png
 "GET /hw4/ HTTP/1.1" 200 3364
 "GET /hw4/product/add/ HTTP/1.1" 200 3946
 "GET /hw4/ HTTP/1.1" 200 3364
+Watching for file changes with StatReloader
+"GET /hw4/ HTTP/1.1" 200 3364
+Обработана страница Home page
+"GET /hw1/ HTTP/1.1" 200 226
+"GET / HTTP/1.1" 200 2652
+"GET /hw2/ HTTP/1.1" 200 2938
+"GET /hw3/ HTTP/1.1" 200 2992
+"GET /hw4/ HTTP/1.1" 200 3364
+Watching for file changes with StatReloader
+"GET /admin/myapp_5/product/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/myapp_5/product/ HTTP/1.1" 200 4190
+"GET / HTTP/1.1" 200 2652
+"GET /hw2/ HTTP/1.1" 200 2938
+"GET /hw2/add_product/ HTTP/1.1" 200 3485
+"GET /hw3/ HTTP/1.1" 200 2992
+"GET /hw4/ HTTP/1.1" 200 3364
+"POST /hw4/ HTTP/1.1" 302 0
+"GET /hw4/product/1/edit/ HTTP/1.1" 200 3977
+"GET /hw2/ HTTP/1.1" 200 2938
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw2_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4319
+Watching for file changes with StatReloader
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 7033
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 8015
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/product/ HTTP/1.1" 200 13291
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/product/6/change/ HTTP/1.1" 200 12569
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/product/6/change/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/product/ HTTP/1.1" 200 13520
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/product/5/change/ HTTP/1.1" 200 12505
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/product/5/change/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/product/ HTTP/1.1" 200 13536
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/product/4/change/ HTTP/1.1" 200 12505
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/product/4/change/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/product/ HTTP/1.1" 200 13552
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/product/ HTTP/1.1" 200 8358
+"POST /admin/hw4_app/product/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/product/ HTTP/1.1" 200 12488
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 8015
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/client/add/ HTTP/1.1" 200 11973
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/client/add/ HTTP/1.1" 200 12273
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/client/add/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 9499
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 9292
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 11678
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 11678
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/client/1/change/ HTTP/1.1" 200 12285
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/client/1/change/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 11891
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/client/1/change/ HTTP/1.1" 200 12285
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/client/1/change/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 11891
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/client/add/ HTTP/1.1" 200 11973
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/client/add/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/client/ HTTP/1.1" 200 12417
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/add/ HTTP/1.1" 200 11688
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/add/ HTTP/1.1" 200 11688
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/add/ HTTP/1.1" 200 11688
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw4_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw4_app/order/ HTTP/1.1" 200 8313
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/add/ HTTP/1.1" 200 11993
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/orderitem/ HTTP/1.1" 200 8346
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/orderitem/add/ HTTP/1.1" 200 12524
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/ HTTP/1.1" 200 8313
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/order/add/ HTTP/1.1" 200 11993
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/order/add/ HTTP/1.1" 200 12156
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw4_app/order/add/ HTTP/1.1" 302 0
+"GET /admin/hw4_app/order/ HTTP/1.1" 200 9825
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/orderitem/ HTTP/1.1" 200 8346
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/orderitem/add/ HTTP/1.1" 200 12580
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw4_app/product/add/?_to_field=id&_popup=1 HTTP/1.1" 200 7829
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /admin/hw4_app/orderitem/add/
+"GET /admin/hw4_app/orderitem/add/ HTTP/1.1" 404 4371
+Not Found: /admin/h
+"GET /admin/h HTTP/1.1" 404 4308
+"GET /admin/ HTTP/1.1" 200 8666
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 10606
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 9838
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/orderitem/ HTTP/1.1" 200 9561
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9472
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 9785
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/add/ HTTP/1.1" 200 12223
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/product/add/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 12120
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 9838
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/client/add/ HTTP/1.1" 200 12278
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/client/add/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 12202
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9472
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 11294
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17203
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/inlines.js HTTP/1.1" 200 15526
+"GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 560
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 9292
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 9306
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 9306
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/1/change/ HTTP/1.1" 200 12802
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17203
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py", line 42, in save
+    self.total_amount = sum(item.product.price * item.quantity for item in self.orderitem_set.all())
+                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 141143
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py", line 42, in save
+    self.total_amount = sum(item.product.price * item.quantity for item in self.orderitem_set.all())
+                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 141711
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py", line 42, in save
+    self.total_amount = sum(item.product.price * item.quantity for item in self.orderitem_set.all())
+                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 141711
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17203
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py", line 42, in save
+    self.total_amount = sum(item.product.price * item.quantity for item in self.orderitem_set.all())
+                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 141167
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py", line 42, in save
+    self.total_amount = sum(item.product.price * item.quantity for item in self.orderitem_set.all())
+                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 140600
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 200 15287
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py", line 42, in save
+    self.total_amount = sum(item.product.price * item.quantity for item in self.orderitem_set.all())
+                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 140575
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 10247
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 9292
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 9306
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 16534
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 200 16697
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py", line 15, in save_model
+    super().save_model(request, obj, form, change)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py", line 42, in save
+    self.total_amount = sum(item.product.price * item.quantity for item in self.orderitem_set.all())
+                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 146082
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 10247
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 9292
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 9306
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 16645
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py", line 15, in save_model
+    super().save_model(request, obj, form, change)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 822, in save
+    self.save_base(
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 215713
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py", line 15, in save_model
+    super().save_model(request, obj, form, change)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 822, in save
+    self.save_base(
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 215713
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 16645
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 200 16808
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py", line 15, in save_model
+    super().save_model(request, obj, form, change)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 822, in save
+    self.save_base(
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 215777
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py", line 15, in save_model
+    super().save_model(request, obj, form, change)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 822, in save
+    self.save_base(
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 215198
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py", line 15, in save_model
+    super().save_model(request, obj, form, change)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1259, in save_model
+    obj.save()
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 822, in save
+    self.save_base(
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/backends/sqlite3/base.py", line 329, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: hw5_app_order.total_amount
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 215778
+Watching for file changes with StatReloader
+Not Found: /admin/hw4_app/client/
+"GET /admin/hw4_app/client/ HTTP/1.1" 404 5033
+"GET /admin/ HTTP/1.1" 200 10686
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 11807
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/orderitem/ HTTP/1.1" 200 8346
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9797
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 11684
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/orderitem/ HTTP/1.1" 200 8346
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 11807
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/orderitem/ HTTP/1.1" 200 8346
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/orderitem/add/ HTTP/1.1" 200 12430
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9797
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17405
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py", line 30, in save_model
+    obj.total_amount = sum(item.product.price * item.quantity for item in obj.orderitem_set.all())
+                                                                          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 136593
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/hw5_app/order/add/ HTTP/1.1" 200 4194
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/base.css HTTP/1.1" 200 21544
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"POST /admin/login/?next=/admin/hw5_app/order/add/ HTTP/1.1" 200 4355
+"POST /admin/login/?next=/admin/hw5_app/order/add/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17405
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/inlines.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/inline-delete.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 11807
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/hw5_app/client/add/ HTTP/1.1" 200 12278
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/client/add/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 12451
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 11684
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/add/ HTTP/1.1" 200 12784
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/product/add/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 12308
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9797
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17544
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/hw5_app/order/add/
+Traceback (most recent call last):
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/contrib/admin/options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py", line 34, in save_model
+    obj.total_amount = sum(item.product.price * item.quantity for item in obj.orderitem_set.all())
+                                                                          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 164, in all
+    return self.get_queryset()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/.venv/lib/python3.11/site-packages/django/db/models/fields/related_descriptors.py", line 751, in get_queryset
+    raise ValueError(
+ValueError: 'Order' instance needs to have a primary key value before this relationship can be used.
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 500 136702
+Watching for file changes with StatReloader
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17332
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 200 10346
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17332
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 200 17495
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/admin.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 10152
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /admin/hw5_app/order/1/change/ HTTP/1.1" 200 19972
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9936
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 10994
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 10872
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9936
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/client/ HTTP/1.1" 200 10994
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9936
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/1/change/ HTTP/1.1" 200 19972
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/shleg/Library/CloudStorage/OneDrive-Personal/Education/GeekBrains/Веб-разработка на Python/Фреймворк Django/homework_django/homework_project/hw5_app/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/hw5_app/order/1/change/ HTTP/1.1" 200 19972
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9936
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/order/ HTTP/1.1" 200 8183
+"GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+"POST /admin/hw5_app/order/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 8143
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 8008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 10154
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/2/change/ HTTP/1.1" 200 19974
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/product/ HTTP/1.1" 200 10872
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 9938
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/hw5_app/order/add/ HTTP/1.1" 200 17342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/hw5_app/order/add/ HTTP/1.1" 302 0
+"GET /admin/hw5_app/order/ HTTP/1.1" 200 10581
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342

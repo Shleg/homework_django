@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     "hw2_app",
     "hw3_app",
     "hw4_app",
+    "hw5_app",
 ]
 
 MIDDLEWARE = [
