@@ -2142,3 +2142,10 @@ Watching for file changes with StatReloader
 "POST /admin/hw5_app/order/4/change/ HTTP/1.1" 302 0
 "GET /admin/hw5_app/order/ HTTP/1.1" 200 11009
 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+Not Found: /author/
+"POST /author/ HTTP/1.1" 404 12116
+"GET / HTTP/1.1" 200 12030
+"GET /hw2/ HTTP/1.1" 200 12326
+"GET /hw3/ HTTP/1.1" 200 12396
+"GET /hw4/ HTTP/1.1" 200 12753
